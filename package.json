@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "form-data": "^4.0.0",
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "sass": "^1.50.0",
+    "scss": "^0.2.4"
   },
   "devDependencies": {
     "eslint": "8.12.0",
